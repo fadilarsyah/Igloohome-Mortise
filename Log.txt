@@ -1,6 +1,17 @@
 29 November 2019
-161111612 Fadil Muhammad Arsyah -> Scrumuster
-161111841 Ginta Artina Ginting ->
-161110901 Iqbal Gunawan ->
-161112049 Noviyanti Simamora ->
-161111124 Steven Claode A T -> 
+    161111612 Fadil Muhammad Arsyah -> Scrumuster
+    Kemarin mengerjakan apa?
+        161111841 Ginta Artina Ginting -> -
+        161110901 Iqbal Gunawan -> -
+        161112049 Noviyanti Simamora -> -
+        161111124 Steven Claode A T -> -
+    Apa yang akan dikerjakan hari ini?
+        161111841 Ginta Artina Ginting -> 
+        161110901 Iqbal Gunawan ->
+        161112049 Noviyanti Simamora ->
+        161111124 Steven Claode A T -> 
+    Ada masalah dalam pengerjaan tugas?
+        161111841 Ginta Artina Ginting -> -
+        161110901 Iqbal Gunawan -> -
+        161112049 Noviyanti Simamora -> -
+        161111124 Steven Claode A T -> -
