@@ -14,7 +14,7 @@
     161111841 Ginta Artina Ginting -> sering terjadi konflik saat ingin melakukan push
     161110901 Iqbal Gunawan -> -
     161112049 Noviyanti Simamora -> tidak tau cara proses clone
-    161111124 Steven Claode A T -> tidak tau cara proses clone dan sering terjadi konflik saat ingin melakukan push
+    161111124 Steven Claode A T -> tidak tau cara proses clone dan sering terjadi konflik saat ingin melakukan push 
 
 02 Desember 2019
   161111612 Fadil Muhammad Arsyah -> Scrumuster
