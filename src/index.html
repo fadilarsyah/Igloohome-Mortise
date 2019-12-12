@@ -7,32 +7,84 @@
   <title>igloohome</title>
   <link rel="stylesheet" type="text/css" href="build/build.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  
+
   <style>
-    @import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Comfortaa|Merienda|Kalam|Crete+Round|Handlee|Philosopher&display=swap');
 
     .lengkung {
       border-radius: 20px;
-      border: outset #bdfff1 5px;
+      position: relative;
+      -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+      -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
       box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
+      padding: 10px;
     }
 
+    /* Make the image fit the box */
+    .lengkung img {
+      border: outset #bdfff1 5px;
+    }
+
+    .lengkung::after {
+      content: '';
+      position: absolute;
+      z-index: -1; /* hide shadow behind image */
+      -webkit-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+      box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);        
+      width: 70%; 
+      left: 15%; /* one half of the remaining 30% */
+      height: 100px;
+      bottom: 0;
+    }
+    
     h3,
     h4,
     h5,
     h6 {
-      text-align: center;
       color: #00dead;
-      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+      text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.8);
+      text-align: center;
+      font-weight: bold;
+      margin: 15px auto;
+      margin-top: 5px;
+    }
+    
+    h1,h2{
+      font-weight: bolder;
+      margin: 30px auto;
+      text-align: center
+    }
+    
+    .deck{
+      background-image: linear-gradient(#fff,#cae8e1,#bdfff4);
+      color: #103939;
+      font-weight:600;
+      text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.6);
+      text-align: center;
+      line-height: 1.5em;
+      letter-spacing: 5px;
+      /* background-color: #bdfff4; */
+      font-family: 'Comfortaa', cursive;
+      /* font-family: 'Merienda', cursive; */
+      /* font-family: 'Philosopher', sans-serif; */
+      /* font-family: 'Crete Round', serif; */
+      /* font-family: 'Handlee', cursive; */
+      /* font-family: 'Kalam', cursive; */
     }
 
-    .warna,
-    .deck {
-      background-image: linear-gradient(#fff,#cae8e1,#bdfff4);
-      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
-      /* background-color: #bdfff4; */
-      color: #103939;
-      font-family: 'Kalam', cursive;
+    ul {
+      list-style-type: none;
+    }
+
+    img:hover,.lengkung:hover{
+      -o-transition: all 0.4s; 
+      -moz-transition: all 0.4s; 
+      -webkit-transition: all 0.4s;
+      -moz-transform: scale(1.1,1.1);
+      -o-transform: scale(1.1,1.1);
+      -webkit-transform: scale(1.1,1.1); 
     }
   </style>
 </head>
