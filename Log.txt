@@ -153,3 +153,21 @@
     161111841 Ginta Artina Ginting -> 
     161112049 Noviyanti Simamora -> -
     161111612 Fadil Muhammad Arsyah -> -
+
+12 Desember 2019
+  161110901 -> Scrumuster
+   Kemarin mengerjakan apa?
+    161111124 Steven Claode A T -> -Lanjutan Backlog
+    161111841 Ginta Artina Ginting -> -Lanjutan Backlog
+    161112049 Noviyanti Simamora -> -Lanjutan Backlog
+    161111612 Fadil Muhammad Arsyah -> -Lanjutan Backlog
+   Apa yang akan dikerjakan hari ini?
+    161111124 Steven Claode A T -> Mengerjakan Backlog yang belum selesai sesuai pembagian tugas
+    161111841 Ginta Artina Ginting -> Mengerjakan Backlog yang belum selesai sesuai pembagian tugas
+    161112049 Noviyanti Simamora -> Mengerjakan Backlog yang belum selesai sesuai pembagian tugas
+    161111612 Fadil Muhammad Arsyah -> Mengerjakan Backlog yang belum selesai sesuai pembagian tugas
+   Ada masalah dalam pengerjaan tugas? 
+    161111124 Steven Claode A T -> 
+    161111841 Ginta Artina Ginting -> 
+    161112049 Noviyanti Simamora -> -
+    161111612 Fadil Muhammad Arsyah -> -
